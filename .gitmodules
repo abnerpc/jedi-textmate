@@ -1,0 +1,6 @@
+[submodule "Support/jedi"]
+	path = Support/jedi
+	url = https://github.com/davidhalter/jedi
+[submodule "Support/parso"]
+	path = Support/parso
+	url = https://github.com/davidhalter/parso

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>noare@zz.fg</string>
+	<key>contactName</key>
+	<string>Abner Campanha</string>
+	<key>description</key>
+	<string>Python Jedi Bundle.</string>
+	<key>name</key>
+	<string>Python Jedi</string>
+	<key>uuid</key>
+	<string>15863239-26B2-4323-B695-9EEA106DE124</string>
+</dict>
+</plist>
